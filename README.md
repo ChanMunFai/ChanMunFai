@@ -22,9 +22,10 @@ I am an AI enthusiast who has just graduated from an MSc in AI and a BSC in Econ
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Lightning-792DE4?style=for-the-badge&logo=pytorch-lightning&logoColor=white"/>
 <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white"/>
+</div>
  
 ## 🍁 Interesting Projects 
  
 ### [How well do self-supervised learning transfer to medical imaging?](https://github.com/jonahanton/SSL_medicalimaging)
  * Published paper in [MDPI Journal of Imaging](https://www.mdpi.com/2313-433X/8/12/320)
-</div>
+
