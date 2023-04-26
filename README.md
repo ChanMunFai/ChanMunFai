@@ -2,7 +2,7 @@
 
 # Hi there, I'm Mun Fai 👋 
  
-I am an AI enthusiast with extensive experience in machine learning including having published a paper on self-supervised learning in a top journal. I am proficient in R, Python and deep learning frameworks like Pytorch. 
+I am an AI enthusiast with extensive experience in machine learning including having published a paper on self-supervised learning in a top journal. I am proficient in R, Python and deep learning frameworks like Pytorch. I am an MSC Artificial Intelligence graduate and a BSC Econometrics and Mathematical Economics graduate. 
 
   ### You can find me on:
 
@@ -28,4 +28,14 @@ I am an AI enthusiast with extensive experience in machine learning including ha
  
 #### 1. [How well do self-supervised learning transfer to medical imaging?](https://github.com/jonahanton/SSL_medicalimaging)
  * Published paper in [MDPI Journal of Imaging](https://www.mdpi.com/2313-433X/8/12/320)
+
+#### 2. [Hierachical Kalman Variational AutoEncoders](https://github.com/ChanMunFai/Dissertation)
+ * Designed and implemented novel and efficient model for video prediction for Masters dissertation
+
+#### 3. [Podcast Transcript website](https://github.com/ChanMunFai/financial-coconut-transcripts)
+ * Finetuned OpenAI Whisper model on 800 GB of Singaporean accented speech 
+ * Transcribed and summarised Singaporean podcasts and designed frontend for website 
+
+#### 4. [Query Chatbot](https://github.com/ChanMunFai/querychatbot)
+ * Scrapped data from Singapore Government's website and built chatbot to query over these data 
 
