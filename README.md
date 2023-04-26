@@ -26,6 +26,6 @@ I am an AI enthusiast who has just graduated from an MSc in AI and a BSC in Econ
  
 ## 🍁 Interesting Projects 
  
-### [How well do self-supervised learning transfer to medical imaging?](https://github.com/jonahanton/SSL_medicalimaging)
+#### [How well do self-supervised learning transfer to medical imaging?](https://github.com/jonahanton/SSL_medicalimaging)
  * Published paper in [MDPI Journal of Imaging](https://www.mdpi.com/2313-433X/8/12/320)
 
