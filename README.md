@@ -1,16 +1,18 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**ChanMunFai/ChanMunFai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Mun Fai 👋 
+ 
+I am an AI enthusiast who has just graduated from an MSc in AI and a BSC in Econonetrics and Mathematical Economomics. I am proficient in R, Python and deep learning frameworks like Pytorch. 
 
-Here are some ideas to get you started:
+  ### You can find me on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<a href="https://www.linkedin.com/in/munfai15//">
+    <img alt="Chan Mun Fai Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://chanmunfai.com">
+    <img alt="Chan Mun Fai website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+</a>
+</div>
+  <br>
+</div>
