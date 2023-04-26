@@ -23,6 +23,8 @@ I am an AI enthusiast with extensive experience in machine learning including ha
 <img src="https://img.shields.io/badge/Lightning-792DE4?style=for-the-badge&logo=pytorch-lightning&logoColor=white"/>
 <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white"/>
 </div>
+
+<br>
  
 ## 🍁 Interesting Projects 
  
