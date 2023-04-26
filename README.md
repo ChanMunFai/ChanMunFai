@@ -2,7 +2,7 @@
 
 # Hi there, I'm Mun Fai 👋 
  
-I am an AI enthusiast with extensive experience in machine learning including having published a paper on self-supervised learning in a top journal. I am proficient in R, Python and deep learning frameworks like Pytorch. I am an MSC Artificial Intelligence graduate and a BSC Econometrics and Mathematical Economics graduate. 
+I am an AI enthusiast with extensive experience in machine learning including having had published a paper on self-supervised learning in a top journal. I am proficient in R, Python and deep learning frameworks like Pytorch. I am an MSC Artificial Intelligence graduate and a BSC Econometrics and Mathematical Economics graduate. 
 
   ### You can find me on:
 
