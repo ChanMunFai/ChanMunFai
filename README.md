@@ -27,7 +27,7 @@ I am an AI enthusiast with extensive experience in machine learning including ha
  
 ## 🍁 Interesting Projects 
  
-#### 1. [How well do self-supervised learning transfer to medical imaging?](https://github.com/jonahanton/SSL_medicalimaging)
+#### 1. [How well do self-supervised learning transfer to medical imaging? 🩻 ](https://github.com/jonahanton/SSL_medicalimaging)
  * Published paper in [MDPI Journal of Imaging](https://www.mdpi.com/2313-433X/8/12/320)
 
 #### 2. [Hierachical Kalman Variational AutoEncoders](https://github.com/ChanMunFai/Dissertation)
