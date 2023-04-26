@@ -2,7 +2,7 @@
 
 # Hi there, I'm Mun Fai 👋 
  
-I am an AI enthusiast who has just graduated from an MSc in AI and a BSC in Econonetrics and Mathematical Economomics. I am proficient in R, Python and deep learning frameworks like Pytorch. 
+I am an AI enthusiast with extensive experience in machine learning including having published a paper on self-supervised learning in a top journal. I am proficient in R, Python and deep learning frameworks like Pytorch. 
 
   ### You can find me on:
 
@@ -26,6 +26,6 @@ I am an AI enthusiast who has just graduated from an MSc in AI and a BSC in Econ
  
 ## 🍁 Interesting Projects 
  
-#### [How well do self-supervised learning transfer to medical imaging?](https://github.com/jonahanton/SSL_medicalimaging)
+#### 1. [How well do self-supervised learning transfer to medical imaging?](https://github.com/jonahanton/SSL_medicalimaging)
  * Published paper in [MDPI Journal of Imaging](https://www.mdpi.com/2313-433X/8/12/320)
 
