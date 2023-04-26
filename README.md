@@ -15,9 +15,6 @@ I am an AI enthusiast who has just graduated from an MSc in AI and a BSC in Econ
 </a>
 </div>
   <br>
-</div>
-
-<div align="center">
 
 ### 👩‍💻 Languages and Tools
 
