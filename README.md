@@ -14,7 +14,6 @@ I am an AI enthusiast with extensive experience in machine learning including ha
     <img alt="Chan Mun Fai Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </div>
-  <br>
 
 ### 👩‍💻 Languages and Tools
 
