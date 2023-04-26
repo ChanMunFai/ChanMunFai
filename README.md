@@ -17,10 +17,10 @@ I am an AI enthusiast who has just graduated from an MSc in AI and a BSC in Econ
   <br>
 </div>
 
+<div align="center">
 
 ### 👩‍💻 Languages and Tools
 
-<div>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Lightning-792DE4?style=for-the-badge&logo=pytorch-lightning&logoColor=white"/>
